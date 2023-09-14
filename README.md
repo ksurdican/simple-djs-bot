@@ -41,7 +41,7 @@ ERR_WEB=<discord webhook for error messages to be sent>
 
 Clone the project
 ```bash
-  git clone https://github.com/ksurdican/simple-djs-v14-bot.git
+  git clone https://github.com/ksurdican/simple-djs-bot.git
 ```
 
 Go to the project directory
